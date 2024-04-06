@@ -131,3 +131,6 @@ out
 # rest files for test endpoints
 /requests
 .rest
+
+# vscode settings
+.vscode
